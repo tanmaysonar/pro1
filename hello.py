@@ -1,7 +1,13 @@
 # hello
 
 print 'hello world'
-print 'Good Night'
+
+#print 'Good Night'
+#print 'Good Evening'
+
+msg = 'Good Night to all'
+print msg
+
 
 #new code added.
 #another addition to master file only
