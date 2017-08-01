@@ -12,4 +12,7 @@ print msg
 
 #new code added.
 #another addition to master file only
-# integration with feature 2
+# integration with feature 2 resolved the bug toooooo
+
+
+
