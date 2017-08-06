@@ -35,6 +35,12 @@ else:
 # response contains the geoJSON object,
 # pretty print it to the console
 #print json.dumps(response, indent=4)
+dic = {}
+dic = response
+
+for k,v in dic.iteritems():
+	print str(k) + ':' + str(v)
+
 if response['login'] != None:
 	print "+++++++++++++++++++++++++++++++++++++++++"
 	print "My master's name is "+response['login']
